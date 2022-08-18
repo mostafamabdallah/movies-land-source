@@ -8,50 +8,44 @@ Access my site at [https://movies-land-app.herokuapp.com/] or [https://movies-la
 
 ## Table of Content:
 
-- [About The App](#about-the-app)
-- [Screenshots](#screenshots)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Approach](#approach)
-- [Status](#status)
-- [Credits](#credits)
-- [License](#license)
+- [About The App]
+- [Screenshots]
+- [Technologies]
+- [Setup]
 
 ## About The App
 
-Movie Land is an app that get all imdb movies and show it in a list with the ability to search any movie, after select your movie it will open a new page that has all information about the project (movie name,description ,release data , duration ,imdb rating ,etc..)
+Movie Land is an app that get all IMDB movies and show it in a list with the ability to search any movie, after select your movie it will open a new page that has all information about the project (movie name, description ,release data , duration ,IMDB rating ,etc..)
 
 ## Screenshots
-### home page
+### Home Page
 ![Alt text](https://github.com/mostafamabdallah/movies-land-source/blob/main/screenshots/home.png "Title")
-### single Movie page 
+### Single Movie 
 ![Alt text](https://github.com/mostafamabdallah/movies-land-source/blob/main/screenshots/singleMovie.png "Title")
 
 ## Technologies
 
-I used `html`, `css`, ...
+#### Framework
+ReactJs with Typescript
+#### Styling 
+Tailwind CSS
+#### Routing
+React-Router-Dom
+#### State Management
+Redux/Toolkit with React-Redux
+#### Handling HTTP Request
+Axios
+#### Icons
+font awesome
+#### Animation 
+Framer Motion
+
+#### API (data provider) 
+[https://www.omdbapi.com/] open source Movie database
 
 ## Setup
 
 - download or clone the repository
-- run `npm install`
-- ...
-
-## Approach
-
-I adopted the `BEM` naming style for my css class names and ...
-
-## Status
-
-[name of project] is still in progress. `Version 2` will be out soon.
-
-## Credits
-
-List of contriubutors:
-
-- [John Doe](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
-
-## License
-
-MIT license @ [author](author.com)
+- run `npm install` to install all dependencies
+- run `npm start`
+- enjoy 😊
