@@ -23,7 +23,7 @@ Movie Land is an app that get all imdb movies and show it in a list with the abi
 
 ## Screenshots
 
-`![Writing](https://github.com/mostafamabdallah/movies-land-source/tree/main/screenshots/home.png)`
+https://github.com/mostafamabdallah/movies-land-source/blob/main/screenshots/home.png
 
 ## Technologies
 
