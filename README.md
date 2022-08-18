@@ -4,7 +4,7 @@ Movies Land
 
 ## Demo link:
 
-Access my site at [www.mymovies-land.herokuapp.com/] or [https://www.movies-land-app.netlify.app/]
+Access my site at [https://mymovies-land.herokuapp.com/] or [https://movies-land-app.netlify.app/]
 
 ## Table of Content:
 
