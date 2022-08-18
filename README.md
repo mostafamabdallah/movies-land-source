@@ -22,8 +22,7 @@ Access my site at [https://movies-land-app.herokuapp.com/] or [https://movies-la
 Movie Land is an app that get all imdb movies and show it in a list with the ability to search any movie, after select your movie it will open a new page that has all information about the project (movie name,description ,release data , duration ,imdb rating ,etc..)
 
 ## Screenshots
-
-https://github.com/mostafamabdallah/movies-land-source/blob/main/screenshots/home.png
+![Alt text](https://github.com/mostafamabdallah/movies-land-source/blob/main/screenshots/home.png "Title")
 
 ## Technologies
 
