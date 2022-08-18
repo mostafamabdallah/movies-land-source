@@ -1,6 +1,6 @@
 # Project Title
 
-Movie Land
+Movies Land
 
 ## Demo link:
 
